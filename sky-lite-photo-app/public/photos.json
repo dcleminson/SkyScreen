@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "name": "Mountain lake",
+      "url": "https://picsum.photos/id/10/1920/1080.jpg"
+    },
+    {
+      "name": "Forest road",
+      "url": "https://picsum.photos/id/20/1920/1080.jpg"
+    },
+    {
+      "name": "Coastal view",
+      "url": "https://picsum.photos/id/37/1920/1080.jpg"
+    },
+    {
+      "name": "City skyline",
+      "url": "https://picsum.photos/id/1011/1920/1080.jpg"
+    },
+    {
+      "name": "Desert dunes",
+      "url": "https://picsum.photos/id/1002/1920/1080.jpg"
+    }
+  ]
+}
